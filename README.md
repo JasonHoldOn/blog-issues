@@ -1,2 +1,2 @@
 # blog-issues
-http://zhaoyingnan.me/
+https://www.zhaoyingnan.me/
